@@ -1,8 +1,9 @@
 # TechWragb
 Engenharia da Computação
 
--Amanda Rodrigues Freire - RA 2101972
--Breno Francisco de Oliveira -	RA 1904367 
+Amanda Rodrigues Freire - RA 2101972
+
+Breno Francisco de Oliveira -	RA 1904367 
 
 Gustavo Figueiredo - RA 2102134 
 
